@@ -18,3 +18,13 @@ $ bash Online.sh
 
 * ඔබට වැරදි server එකක් තියෙනවාද කියලා, නැත්තං network connectivity තියෙනවද කියලා බලන්න පුළුවන්.
 
+
+උදාහරණයක්:
+
+Enter the server address (e.g.,google.com):
+
+google.com
+
+Checking connectivity to google.com...
+
+Success: google.com is online!
