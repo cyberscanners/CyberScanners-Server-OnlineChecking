@@ -10,3 +10,6 @@ $ pkg install git
 
 $ git clone https://github.com/cyberscanners/CyberScanners-Server-OnlineChecking.git
 
+$ cd CyberScanners-Server-OnlineChecking
+
+$ bash Online.sh
