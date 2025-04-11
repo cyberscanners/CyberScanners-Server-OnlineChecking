@@ -15,3 +15,6 @@ $ cd CyberScanners-Server-OnlineChecking
 $ bash Online.sh
 
 * ඔබට ඕනෙ server එකක් (e.g., google.com) online ද offline ද කියලා බලාගන්න මේකෙන් පුළුවන්.
+
+* ඔබට වැරදි server එකක් තියෙනවාද කියලා, නැත්තං network connectivity තියෙනවද කියලා බලන්න පුළුවන්.
+
