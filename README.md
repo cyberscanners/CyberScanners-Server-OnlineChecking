@@ -13,3 +13,5 @@ $ git clone https://github.com/cyberscanners/CyberScanners-Server-OnlineChecking
 $ cd CyberScanners-Server-OnlineChecking
 
 $ bash Online.sh
+
+* ඔබට ඕනෙ server එකක් (e.g., google.com) online ද offline ද කියලා බලාගන්න මේකෙන් පුළුවන්.
