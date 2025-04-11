@@ -1,1 +1,1 @@
-# CyberScanners-Server-OnlineChecking
+# CyberScanners/Server-OnlineChecking
